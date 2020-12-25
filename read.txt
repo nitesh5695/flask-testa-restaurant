@@ -1,0 +1,7 @@
+hello  sir ,
+      this project is completed in python flask and firebase database used for data storage.for checking the project you have to install requirements.txt by using pip coomand.
+      login information: username: nitesh.singh5695@gmail.com
+                         password: nitesh5695
+                         
+        you can also check this project on internet
+         
